@@ -1,5 +1,8 @@
-01/03/2021, 22:12: v0.1.0
+01/03/2021, 22:12
+/v0.1.0\
 Proyecto inicial
 
-02/03/2021, 13:02: v0.1.1
-Bug fixes and optimization
+02/03/2021, 13:02
+/v0.2.1\
+Chequeo de actualizaciones
+Bug fixes y optimización
