@@ -23,5 +23,7 @@ Interfaz CLI (Command Line) mejorada
 Sistema de configuración persistente
 
 03/03/2021, 16:54
-/v0.3.2\
+/v0.3.1\
+Bug fixes
+Se eliminó el uso de contraseña para acceder al código
 Se añadió histograma con matplotlib
