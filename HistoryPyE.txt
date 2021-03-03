@@ -11,7 +11,9 @@ Selección de cantidad de decimales
 fr = Frecuencia relativa
 fra = Frecuencia relativa acumulada
 x^f
-f/x
+f
+-
+x
 f(x-MA)^2
 Moda
 Media armónica
