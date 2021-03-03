@@ -21,3 +21,7 @@ Media armónica
 Bug fixes
 Interfaz CLI (Command Line) mejorada
 Sistema de configuración persistente
+
+03/03/2021, 16:54
+/v0.3.2\
+Se añadió histograma con matplotlib
