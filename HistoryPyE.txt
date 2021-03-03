@@ -2,7 +2,16 @@
 /v0.1.0\
 Proyecto inicial
 
-02/03/2021, 13:02
+02/03/2021, 18:14
 /v0.2.1\
-Chequeo de actualizaciones
 Bug fixes y optimización
+Añadido:
+Chequeo de actualizaciones
+Selección de cantidad de decimales
+fr = Frecuencia relativa
+fra = Frecuencia relativa acumulada
+x^f
+f/x
+f(x-MA)^2
+Moda
+Media armónica
