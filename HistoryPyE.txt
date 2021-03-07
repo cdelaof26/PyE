@@ -5,16 +5,15 @@ Proyecto inicial
 02/03/2021, 18:14
 /v0.2.1\
 Bug fixes y optimización
-Añadido:
-Chequeo de actualizaciones
-Selección de cantidad de decimales
-fr = Frecuencia relativa
-fra = Frecuencia relativa acumulada
-x^f
-f/x
-f(x-MA)^2
-Moda
-Media armónica
+Se añadió el chequeo de actualizaciones
+Se añadió ajuste de selección de cantidad de decimales
+Se añadió fr = Frecuencia relativa
+Se añadió fra = Frecuencia relativa acumulada
+Se añadió x^f
+Se añadió f/x
+Se añadió f(x-MA)^2
+Se añadió Moda
+Se añadió Media armónica
 
 03/03/2021, 15:01
 /v0.2.2\
@@ -25,5 +24,15 @@ Sistema de configuración persistente
 03/03/2021, 16:54
 /v0.3.1\
 Bug fixes
-Se eliminó el uso de contraseña para acceder al código
 Se añadió histograma con matplotlib
+Se añadió ajuste “modo de grafica”
+
+06/03/2021, 18:05
+/v0.4.0b\
+Bug fixes
+Se reescribió el módulo creador de tablas, ahora son más dinámicas
+Se modificó el aspecto del histograma con matplotlib
+Se añadió ojiva de frecuencia acumulada
+Se añadió histograma y ojiva en modo CLI (No requiere instalación de matplotlib)
+Se añadió verificación de ajustes
+Se añadió cálculo de cuartiles, deciles y pentiles
