@@ -27,8 +27,8 @@ Bug fixes
 Se añadió histograma con matplotlib
 Se añadió ajuste “modo de grafica”
 
-06/03/2021, 18:05
-/v0.4.0b\
+06/03/2021, 18:15
+/v0.4.5b\
 Bug fixes
 Se reescribió el módulo creador de tablas, ahora son más dinámicas
 Se modificó el aspecto del histograma con matplotlib
