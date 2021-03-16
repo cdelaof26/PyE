@@ -32,6 +32,19 @@ Se añadió ajuste “modo de grafica”
 Bug fixes
 Se reescribió el módulo creador de tablas, ahora son más dinámicas
 Se modificó el aspecto del histograma con matplotlib
+
+15/03/2021, 20:00
+/v0.5.0pre\
+Minor bug fixes
+Optimización
+Reorganización de la estructura del programa
+Se corrigió error donde las tablas no se mostraban completas
+Se añadió funcionalidad parcial de procesamiento de datos agrupados
+Se añadió función para editar los datos cargados
+Se añadió función para mostrar los datos cargados
+Se añadió función para importar y exportar datos (.txt por ahora)
+Reorganización del menú
+Preparación del código para interfaz gráfica
 Se añadió ojiva de frecuencia acumulada
 Se añadió histograma y ojiva en modo CLI (No requiere instalación de matplotlib)
 Se añadió verificación de ajustes
